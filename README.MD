@@ -10,4 +10,6 @@ you can add dependency for [ChatGPTSwift](https://github.com/alfianlosari/ChatGP
 ## Video tutorial
 - [iOS YouTube](https://youtu.be/PLEgTCT20zU)
 - [macOS YouTube](https://youtu.be/Wl1cDvwpJoE)
-- [watchOS YouTub
+- [watchOS YouTube](https://youtu.be/DwXy0gKz1GY)
+- [tvOS YouTube](https://youtu.be/7RQHG7GXJ_U)
+- [
