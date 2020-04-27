@@ -8,4 +8,6 @@ This is a native iOS, macOS, watchOS, tvOS App for interacting with ChatGPT buil
 you can add dependency for [ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift) to access the API only if you want to integrate into your own app
 
 ## Video tutorial
-- [iOS YouTube](h
+- [iOS YouTube](https://youtu.be/PLEgTCT20zU)
+- [macOS YouTube](https://youtu.be/Wl1cDvwpJoE)
+- [watchOS YouTub
