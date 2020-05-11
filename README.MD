@@ -15,4 +15,7 @@ you can add dependency for [ChatGPTSwift](https://github.com/alfianlosari/ChatGP
 - [Upgrade to Official API YouTube](https://youtu.be/9byLhs5hQjI)
 
 ## Requierements
-- Xcode 14
+- Xcode 14 
+- Register at openai.com/api
+- Create API Key
+- Paste API key in ContentView where the ChatGPTAPI inst
