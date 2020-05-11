@@ -12,4 +12,7 @@ you can add dependency for [ChatGPTSwift](https://github.com/alfianlosari/ChatGP
 - [macOS YouTube](https://youtu.be/Wl1cDvwpJoE)
 - [watchOS YouTube](https://youtu.be/DwXy0gKz1GY)
 - [tvOS YouTube](https://youtu.be/7RQHG7GXJ_U)
-- [
+- [Upgrade to Official API YouTube](https://youtu.be/9byLhs5hQjI)
+
+## Requierements
+- Xcode 14
