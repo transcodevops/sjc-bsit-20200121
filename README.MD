@@ -18,4 +18,4 @@ you can add dependency for [ChatGPTSwift](https://github.com/alfianlosari/ChatGP
 - Xcode 14 
 - Register at openai.com/api
 - Create API Key
-- Paste API key in ContentView where the ChatGPTAPI inst
+- Paste API key in ContentView where the ChatGPTAPI instance is declared
