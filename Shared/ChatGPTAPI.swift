@@ -21,4 +21,8 @@ class ChatGPTAPI: @unchecked Sendable {
         var urlRequest = URLRequest(url: url)
         urlRequest.httpMethod = "POST"
         headers.forEach {  urlRequest.setValue($1, forHTTPHeaderField: $0) }
-        r
+        return urlRequest
+    }
+    
+    let dateFormatter: DateFormatter = {
+        let df = DateFormatter
