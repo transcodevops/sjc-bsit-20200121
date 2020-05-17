@@ -16,4 +16,5 @@ class ChatGPTAPI: @unchecked Sendable {
     private let apiKey: String
     private var historyList = [Message]()
     private let urlSession = URLSession.shared
- 
+    private var urlRequest: URLRequest {
+        let url = URL(string: "https://api.openai.com/v1
