@@ -13,4 +13,7 @@ class ChatGPTAPI: @unchecked Sendable {
     private let temperature: Double
     private let model: String
     
-    private let a
+    private let apiKey: String
+    private var historyList = [Message]()
+    private let urlSession = URLSession.shared
+ 
