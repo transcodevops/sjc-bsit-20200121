@@ -36,4 +36,7 @@ class ChatGPTAPI: @unchecked Sendable {
         return jsonDecoder
     }()
     
-    private var head
+    private var headers: [String: String] {
+        [
+            "Content-Type": "application/json",
+        
