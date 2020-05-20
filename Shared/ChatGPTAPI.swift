@@ -39,4 +39,9 @@ class ChatGPTAPI: @unchecked Sendable {
     private var headers: [String: String] {
         [
             "Content-Type": "application/json",
-        
+            "Authorization": "Bearer \(apiKey)"
+        ]
+    }
+    
+
+    init(apiKey: String, model: Stri
