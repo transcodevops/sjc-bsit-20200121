@@ -30,4 +30,6 @@ class ChatGPTAPI: @unchecked Sendable {
         return df
     }()
     
-    private 
+    private let jsonDecoder: JSONDecoder = {
+        let jsonDecoder = JSONDecoder()
+        jsonDecoder.keyD
