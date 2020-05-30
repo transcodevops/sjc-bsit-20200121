@@ -47,4 +47,5 @@ class ChatGPTAPI: @unchecked Sendable {
     init(apiKey: String, model: String = "gpt-3.5-turbo", systemPrompt: String = "You are a helpful assistant", temperature: Double = 0.5) {
         self.apiKey = apiKey
         self.model = model
-        self.systemMessa
+        self.systemMessage = .init(role: "system", content: systemPrompt)
+        self.temperature = temperatur
