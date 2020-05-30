@@ -44,4 +44,4 @@ class ChatGPTAPI: @unchecked Sendable {
     }
     
 
-    init(apiKey: String, model: Stri
+    init(apiKey: String, model: String = "gpt-3.5-turbo", systemPrompt: String = "You are a helpful assistant", temperature: Double = 0.5) 
