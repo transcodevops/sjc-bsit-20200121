@@ -48,4 +48,8 @@ class ChatGPTAPI: @unchecked Sendable {
         self.apiKey = apiKey
         self.model = model
         self.systemMessage = .init(role: "system", content: systemPrompt)
-        self.temperature = temperatur
+        self.temperature = temperature
+    }
+    
+    private func generateMessages(from text: String) -> [Message] {
+        var messages
