@@ -52,4 +52,6 @@ class ChatGPTAPI: @unchecked Sendable {
     }
     
     private func generateMessages(from text: String) -> [Message] {
-        var messages
+        var messages = [systemMessage] + historyList + [Message(role: "user", content: text)]
+        
+        if messages
