@@ -56,4 +56,9 @@ class ChatGPTAPI: @unchecked Sendable {
         
         if messages.contentCount > (4000 * 4) {
             _ = historyList.dropFirst()
-            messages = generateMessa
+            messages = generateMessages(from: text)
+        }
+        return messages
+    }
+    
+    private func jsonBody(t
