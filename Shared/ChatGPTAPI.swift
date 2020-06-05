@@ -61,4 +61,5 @@ class ChatGPTAPI: @unchecked Sendable {
         return messages
     }
     
-    private func jsonBody(t
+    private func jsonBody(text: String, stream: Bool = true) throws -> Data {
+        let request = Request(model: model, temperature: t
