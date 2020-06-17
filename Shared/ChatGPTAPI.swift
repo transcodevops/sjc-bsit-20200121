@@ -68,4 +68,5 @@ class ChatGPTAPI: @unchecked Sendable {
     }
     
     private func appendToHistoryList(userText: String, responseText: String) {
-        self.histor
+        self.historyList.append(.init(role: "user", content: userText))
+        self.historyList.append(.init(r
