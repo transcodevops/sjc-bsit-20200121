@@ -63,4 +63,8 @@ class ChatGPTAPI: @unchecked Sendable {
     
     private func jsonBody(text: String, stream: Bool = true) throws -> Data {
         let request = Request(model: model, temperature: temperature,
-                              messages: generateMessages(fro
+                              messages: generateMessages(from: text), stream: stream)
+        return try JSONEncoder().encode(request)
+    }
+    
+    private func
