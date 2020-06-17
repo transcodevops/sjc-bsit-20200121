@@ -67,4 +67,5 @@ class ChatGPTAPI: @unchecked Sendable {
         return try JSONEncoder().encode(request)
     }
     
-    private func
+    private func appendToHistoryList(userText: String, responseText: String) {
+        self.histor
