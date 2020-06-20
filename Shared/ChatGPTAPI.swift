@@ -82,4 +82,7 @@ class ChatGPTAPI: @unchecked Sendable {
             throw "Invalid response"
         }
         
-        guard 200...299 ~= httpResponse.statusCode else 
+        guard 200...299 ~= httpResponse.statusCode else {
+            var errorText = ""
+            for try await line in result.lines {
+                erro
