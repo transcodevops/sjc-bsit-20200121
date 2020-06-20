@@ -78,4 +78,5 @@ class ChatGPTAPI: @unchecked Sendable {
         
         let (result, response) = try await urlSession.bytes(for: urlRequest)
         
-        guard let ht
+        guard let httpResponse = response as? HTTPURLResponse else {
+            throw "I
