@@ -85,4 +85,7 @@ class ChatGPTAPI: @unchecked Sendable {
         guard 200...299 ~= httpResponse.statusCode else {
             var errorText = ""
             for try await line in result.lines {
-                erro
+                errorText += line
+            }
+            
+            if let data = errorText.data(using: .utf
