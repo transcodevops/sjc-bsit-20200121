@@ -92,4 +92,6 @@ class ChatGPTAPI: @unchecked Sendable {
                 errorText = "\n\(errorResponse.message)"
             }
             
-     
+            throw "Bad Response: \(httpResponse.statusCode), \(errorText)"
+        }
+        
