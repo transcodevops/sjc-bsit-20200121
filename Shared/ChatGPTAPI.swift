@@ -95,3 +95,5 @@ class ChatGPTAPI: @unchecked Sendable {
             throw "Bad Response: \(httpResponse.statusCode), \(errorText)"
         }
         
+        return AsyncThrowingStream<String, Error> { continuation in
+            Task(priority: .user
