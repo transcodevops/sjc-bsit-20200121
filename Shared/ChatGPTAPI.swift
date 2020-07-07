@@ -96,4 +96,6 @@ class ChatGPTAPI: @unchecked Sendable {
         }
         
         return AsyncThrowingStream<String, Error> { continuation in
-            Task(priority: .user
+            Task(priority: .userInitiated) { [weak self] in
+                guard let self else { return }
+                do 
