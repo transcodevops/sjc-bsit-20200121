@@ -98,4 +98,6 @@ class ChatGPTAPI: @unchecked Sendable {
         return AsyncThrowingStream<String, Error> { continuation in
             Task(priority: .userInitiated) { [weak self] in
                 guard let self else { return }
-                do 
+                do {
+                    var responseText = ""
+                    for try await line in result.lines 
