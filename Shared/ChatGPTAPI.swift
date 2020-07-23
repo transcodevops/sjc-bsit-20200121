@@ -100,4 +100,6 @@ class ChatGPTAPI: @unchecked Sendable {
                 guard let self else { return }
                 do {
                     var responseText = ""
-                    for try await line in result.lines 
+                    for try await line in result.lines {
+                        if line.hasPrefix("data: "),
+                           
