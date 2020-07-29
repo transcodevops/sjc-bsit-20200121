@@ -102,4 +102,5 @@ class ChatGPTAPI: @unchecked Sendable {
                     var responseText = ""
                     for try await line in result.lines {
                         if line.hasPrefix("data: "),
-                           
+                           let data = line.dropFirst(6).data(using: .utf8),
+                           let response = tr
