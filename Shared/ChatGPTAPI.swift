@@ -103,4 +103,5 @@ class ChatGPTAPI: @unchecked Sendable {
                     for try await line in result.lines {
                         if line.hasPrefix("data: "),
                            let data = line.dropFirst(6).data(using: .utf8),
-                           let response = tr
+                           let response = try? self.jsonDecoder.decode(StreamCompletionResponse.self, from: data),
+                           let text = re
