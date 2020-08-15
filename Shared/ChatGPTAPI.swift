@@ -109,3 +109,5 @@ class ChatGPTAPI: @unchecked Sendable {
                             continuation.yield(text)
                         }
                     }
+                    self.appendToHistoryList(userText: text, responseText: responseText)
+  
