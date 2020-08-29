@@ -110,4 +110,6 @@ class ChatGPTAPI: @unchecked Sendable {
                         }
                     }
                     self.appendToHistoryList(userText: text, responseText: responseText)
-  
+                    continuation.finish()
+                } catch {
+                    co
