@@ -115,4 +115,8 @@ class ChatGPTAPI: @unchecked Sendable {
                     continuation.finish(throwing: error)
                 }
             }
-      
+        }
+    }
+
+    func sendMessage(_ text: String) async throws -> String {
+        var urlReque
