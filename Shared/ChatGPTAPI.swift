@@ -119,4 +119,6 @@ class ChatGPTAPI: @unchecked Sendable {
     }
 
     func sendMessage(_ text: String) async throws -> String {
-        var urlReque
+        var urlRequest = self.urlRequest
+        urlRequest.httpBody = try jsonBody(text: text, stream: false)
+        
