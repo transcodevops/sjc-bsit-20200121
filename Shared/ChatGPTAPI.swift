@@ -122,3 +122,6 @@ class ChatGPTAPI: @unchecked Sendable {
         var urlRequest = self.urlRequest
         urlRequest.httpBody = try jsonBody(text: text, stream: false)
         
+        let (data, response) = try await urlSession.data(for: urlRequest)
+        
+        guard let 
