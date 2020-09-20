@@ -129,4 +129,5 @@ class ChatGPTAPI: @unchecked Sendable {
         }
         
         guard 200...299 ~= httpResponse.statusCode else {
-         
+            var error = "Bad Response: \(httpResponse.statusCode)"
+            if let erro
