@@ -125,4 +125,8 @@ class ChatGPTAPI: @unchecked Sendable {
         let (data, response) = try await urlSession.data(for: urlRequest)
         
         guard let httpResponse = response as? HTTPURLResponse else {
-            throw "Invalid respo
+            throw "Invalid response"
+        }
+        
+        guard 200...299 ~= httpResponse.statusCode else {
+         
