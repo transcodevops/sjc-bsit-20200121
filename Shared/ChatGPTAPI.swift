@@ -134,3 +134,7 @@ class ChatGPTAPI: @unchecked Sendable {
                 error.append("\n\(errorResponse.message)")
             }
             throw error
+        }
+        
+        do {
+            let completionResponse = try self.jsonDecoder.decod
