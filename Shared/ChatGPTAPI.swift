@@ -139,4 +139,6 @@ class ChatGPTAPI: @unchecked Sendable {
         do {
             let completionResponse = try self.jsonDecoder.decode(CompletionResponse.self, from: data)
             let responseText = completionResponse.choices.first?.message.content ?? ""
-            self.appendToHistoryList(use
+            self.appendToHistoryList(userText: text, responseText: responseText)
+            return responseText
+        } catch {
