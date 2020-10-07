@@ -137,4 +137,5 @@ class ChatGPTAPI: @unchecked Sendable {
         }
         
         do {
-            let completionResponse = try self.jsonDecoder.decod
+            let completionResponse = try self.jsonDecoder.decode(CompletionResponse.self, from: data)
+            let responseText = completionRe
