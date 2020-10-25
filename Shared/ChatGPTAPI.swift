@@ -142,3 +142,9 @@ class ChatGPTAPI: @unchecked Sendable {
             self.appendToHistoryList(userText: text, responseText: responseText)
             return responseText
         } catch {
+            throw error
+        }
+    }
+    
+    func deleteHistoryList() {
+        self.hi
