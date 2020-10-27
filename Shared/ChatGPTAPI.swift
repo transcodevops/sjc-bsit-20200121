@@ -147,4 +147,10 @@ class ChatGPTAPI: @unchecked Sendable {
     }
     
     func deleteHistoryList() {
-        self.hi
+        self.historyList.removeAll()
+    }
+}
+
+extension String: CustomNSError {
+    
+    public var errorUserInfo: 
