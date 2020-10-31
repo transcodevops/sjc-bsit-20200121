@@ -153,4 +153,11 @@ class ChatGPTAPI: @unchecked Sendable {
 
 extension String: CustomNSError {
     
-    public var errorUserInfo: 
+    public var errorUserInfo: [String : Any] {
+        [
+            NSLocalizedDescriptionKey: self
+        ]
+    }
+}
+
+
