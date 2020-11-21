@@ -111,3 +111,4 @@ struct ContentView_Previews: PreviewProvider {
             ContentView(vm: ViewModel(api: ChatGPTAPI(apiKey: "PROVIDE_API_KEY")))
         }
     }
+}
