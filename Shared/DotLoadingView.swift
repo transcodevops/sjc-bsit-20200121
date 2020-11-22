@@ -16,4 +16,7 @@ struct DotLoadingView: View {
     var body: some View {
         HStack {
             Circle()
-                .opac
+                .opacity(showCircle1 ? 1 : 0)
+            Circle()
+                .opacity(showCircle2 ? 1 : 0)
+          
