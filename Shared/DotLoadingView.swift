@@ -12,3 +12,8 @@ struct DotLoadingView: View {
     @State private var showCircle1 = false
     @State private var showCircle2 = false
     @State private var showCircle3 = false
+    
+    var body: some View {
+        HStack {
+            Circle()
+                .opac
