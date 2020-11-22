@@ -19,4 +19,7 @@ struct DotLoadingView: View {
                 .opacity(showCircle1 ? 1 : 0)
             Circle()
                 .opacity(showCircle2 ? 1 : 0)
-          
+            Circle()
+                .opacity(showCircle3 ? 1 : 0)
+        }
+        .foreg
