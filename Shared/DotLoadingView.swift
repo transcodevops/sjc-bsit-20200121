@@ -33,4 +33,7 @@ struct DotLoadingView: View {
             self.showCircle3 = false
         }
         
-        DispatchQueue.main.asyncAfter(deadli
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+            withAnimation(animation) {
+                self.showCircle2 = true
+ 
