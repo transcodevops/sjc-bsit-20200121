@@ -28,4 +28,6 @@ struct DotLoadingView: View {
     
     func performAnimation() {
         let animation = Animation.easeInOut(duration: 0.4)
- 
+        withAnimation(animation) {
+            self.showCircle1 = true
+            self.sh
