@@ -26,4 +26,6 @@ struct DotLoadingView: View {
         .onAppear { performAnimation() }
     }
     
-    func per
+    func performAnimation() {
+        let animation = Animation.easeInOut(duration: 0.4)
+ 
