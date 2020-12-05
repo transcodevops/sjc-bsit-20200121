@@ -30,4 +30,7 @@ struct DotLoadingView: View {
         let animation = Animation.easeInOut(duration: 0.4)
         withAnimation(animation) {
             self.showCircle1 = true
-            self.sh
+            self.showCircle3 = false
+        }
+        
+        DispatchQueue.main.asyncAfter(deadli
