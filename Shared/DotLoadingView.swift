@@ -53,4 +53,9 @@ struct DotLoadingView: View {
     }
 }
 
-struct DotLoadingView_Previews: PreviewProvid
+struct DotLoadingView_Previews: PreviewProvider {
+    static var previews: some View {
+        DotLoadingView()
+    }
+}
+
