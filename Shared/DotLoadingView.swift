@@ -47,4 +47,10 @@ struct DotLoadingView: View {
             }
         }
         
-        DispatchQueue.main.asyncAfter(deadline: .now() + 1.2)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1.2) {
+            self.performAnimation()
+        }
+    }
+}
+
+struct DotLoadingView_Previews: PreviewProvid
