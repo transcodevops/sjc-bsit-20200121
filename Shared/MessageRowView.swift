@@ -100,3 +100,86 @@ struct MessageRowView: View {
                 .foregroundColor(.accentColor)
                 .padding(.top)
             }
+            
+            if showDotLoading {
+                #if os(tvOS)
+                ProgressView()
+                    .progressViewStyle(.circular)
+                    .padding()
+                #else
+                DotLoadingView()
+                    .frame(width: 60, height: 30)
+                #endif
+                
+            }
+        }
+    }
+    
+    #if os(tvOS)
+    private func rowsFor(text: String) -> [String] {
+        var rows = [String]()
+        let maxLinesPerRow = 8
+        var currentRowText = ""
+        var currentLineSum = 0
+        
+        for char in text {
+            currentRowText += String(char)
+            if char == "\n" {
+                currentLineSum += 1
+            }
+            
+            if currentLineSum >= maxLinesPerRow {
+                rows.append(currentRowText)
+                currentLineSum = 0
+                currentRowText = ""
+            }
+        }
+
+        rows.append(currentRowText)
+        return rows
+    }
+    
+    
+    func responseTextView(text: String) -> some View {
+        ForEach(rowsFor(text: text), id: \.self) { text in
+            Text(text)
+                .focusable()
+                .multilineTextAlignment(.leading)
+        }
+    }
+    #endif
+    
+}
+
+struct MessageRowView_Previews: PreviewProvider {
+    
+    static let message = MessageRow(
+        isInteractingWithChatGPT: true, sendImage: "profile",
+        sendText: "What is SwiftUI?",
+        responseImage: "openai",
+        responseText: "SwiftUI is a user interface framework that allows developers to design and develop user interfaces for iOS, macOS, watchOS, and tvOS applications using Swift, a programming language developed by Apple Inc.")
+    
+    static let message2 = MessageRow(
+        isInteractingWithChatGPT: false, sendImage: "profile",
+        sendText: "What is SwiftUI?",
+        responseImage: "openai",
+        responseText: "",
+        responseError: "ChatGPT is currently not available")
+        
+    static var previews: some View {
+        NavigationStack {
+            ScrollView {
+                MessageRowView(message: message, retryCallback: { messageRow in
+                    
+                })
+                    
+                MessageRowView(message: message2, retryCallback: { messageRow in
+                    
+                })
+                  
+            }
+            .frame(width: 400)
+            .previewLayout(.sizeThatFits)
+        }
+    }
+}
