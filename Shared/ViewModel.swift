@@ -6,4 +6,9 @@
 //
 
 import Foundation
-import SwiftU
+import SwiftUI
+import AVKit
+
+class ViewModel: ObservableObject {
+    
+    @Published var isInteractingWithC
