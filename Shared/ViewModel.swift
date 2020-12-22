@@ -11,4 +11,6 @@ import AVKit
 
 class ViewModel: ObservableObject {
     
-    @Published var isInteractingWithC
+    @Published var isInteractingWithChatGPT = false
+    @Published var messages: [MessageRow] = []
+    @Published var inputMessage:
