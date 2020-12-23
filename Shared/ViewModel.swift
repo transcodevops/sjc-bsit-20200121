@@ -21,4 +21,9 @@ class ViewModel: ObservableObject {
     
     init(api: ChatGPTAPI, enableSpeech: Bool = false) {
         self.api = api
-  
+        if enableSpeech {
+            synthesizer = .init()
+        }
+    }
+    
+    @Main
