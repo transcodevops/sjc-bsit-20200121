@@ -26,4 +26,8 @@ class ViewModel: ObservableObject {
         }
     }
     
-    @Main
+    @MainActor
+    func sendTapped() async {
+        let text = inputMessage
+        inputMessage = ""
+     
