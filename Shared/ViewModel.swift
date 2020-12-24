@@ -30,4 +30,9 @@ class ViewModel: ObservableObject {
     func sendTapped() async {
         let text = inputMessage
         inputMessage = ""
-     
+        await send(text: text)
+    }
+    
+    @MainActor
+    func clearMessages() {
+        stopSpe
