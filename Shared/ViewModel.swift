@@ -35,4 +35,7 @@ class ViewModel: ObservableObject {
     
     @MainActor
     func clearMessages() {
-        stopSpe
+        stopSpeaking()
+        api.deleteHistoryList()
+        withAnimation { [weak self] in
+            self?.messa
