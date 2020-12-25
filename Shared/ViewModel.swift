@@ -38,4 +38,9 @@ class ViewModel: ObservableObject {
         stopSpeaking()
         api.deleteHistoryList()
         withAnimation { [weak self] in
-            self?.messa
+            self?.messages = []
+        }
+    }
+    
+    @MainActor
+    func retry(message: MessageRow) asy
