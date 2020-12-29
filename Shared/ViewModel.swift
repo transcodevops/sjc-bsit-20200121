@@ -43,4 +43,6 @@ class ViewModel: ObservableObject {
     }
     
     @MainActor
-    func retry(message: MessageRow) asy
+    func retry(message: MessageRow) async {
+        guard let index = messages.firstIndex(where: { $0.id == message.id }) else {
+            
