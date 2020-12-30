@@ -45,4 +45,7 @@ class ViewModel: ObservableObject {
     @MainActor
     func retry(message: MessageRow) async {
         guard let index = messages.firstIndex(where: { $0.id == message.id }) else {
-            
+            return
+        }
+        self.messages.remove(at: index)
+        await send(text: m
