@@ -48,4 +48,9 @@ class ViewModel: ObservableObject {
             return
         }
         self.messages.remove(at: index)
-        await send(text: m
+        await send(text: message.sendText)
+    }
+    
+    @MainActor
+    private func send(text: String) async {
+   
