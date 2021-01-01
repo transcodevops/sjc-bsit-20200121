@@ -53,4 +53,6 @@ class ViewModel: ObservableObject {
     
     @MainActor
     private func send(text: String) async {
-   
+        isInteractingWithChatGPT = true
+        var streamText = ""
+        var messageRow = Messag
