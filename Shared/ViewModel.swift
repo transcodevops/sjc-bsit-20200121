@@ -55,4 +55,7 @@ class ViewModel: ObservableObject {
     private func send(text: String) async {
         isInteractingWithChatGPT = true
         var streamText = ""
-        var messageRow = Messag
+        var messageRow = MessageRow(
+            isInteractingWithChatGPT: true,
+            sendImage: "profile",
+    
