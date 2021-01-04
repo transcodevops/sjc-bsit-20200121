@@ -58,4 +58,7 @@ class ViewModel: ObservableObject {
         var messageRow = MessageRow(
             isInteractingWithChatGPT: true,
             sendImage: "profile",
-    
+            sendText: text,
+            responseImage: "openai",
+            responseText: streamText,
+      
