@@ -61,4 +61,7 @@ class ViewModel: ObservableObject {
             sendText: text,
             responseImage: "openai",
             responseText: streamText,
-      
+            responseError: nil)
+        
+        self.messages.append(messageRow)
+       
