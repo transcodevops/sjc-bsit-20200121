@@ -64,4 +64,6 @@ class ViewModel: ObservableObject {
             responseError: nil)
         
         self.messages.append(messageRow)
-       
+        
+        do {
+            let stream = try await api.sendMessageStream(text: text
