@@ -66,4 +66,7 @@ class ViewModel: ObservableObject {
         self.messages.append(messageRow)
         
         do {
-            let stream = try await api.sendMessageStream(text: text
+            let stream = try await api.sendMessageStream(text: text)
+            for try await text in stream {
+                streamText += text
+           
