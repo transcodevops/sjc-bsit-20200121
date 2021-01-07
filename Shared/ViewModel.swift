@@ -70,4 +70,7 @@ class ViewModel: ObservableObject {
             for try await text in stream {
                 streamText += text
                 messageRow.responseText = streamText.trimmingCharacters(in: .whitespacesAndNewlines)
-  
+                self.messages[self.messages.count - 1] = messageRow
+            }
+        } catch {
+ 
