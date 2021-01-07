@@ -69,4 +69,5 @@ class ViewModel: ObservableObject {
             let stream = try await api.sendMessageStream(text: text)
             for try await text in stream {
                 streamText += text
-           
+                messageRow.responseText = streamText.trimmingCharacters(in: .whitespacesAndNewlines)
+  
