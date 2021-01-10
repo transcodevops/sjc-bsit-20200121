@@ -76,4 +76,5 @@ class ViewModel: ObservableObject {
             messageRow.responseError = error.localizedDescription
         }
         
-        mes
+        messageRow.isInteractingWithChatGPT = false
+        self.messages[self.messages.count
