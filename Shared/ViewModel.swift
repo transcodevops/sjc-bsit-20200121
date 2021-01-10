@@ -77,4 +77,6 @@ class ViewModel: ObservableObject {
         }
         
         messageRow.isInteractingWithChatGPT = false
-        self.messages[self.messages.count
+        self.messages[self.messages.count - 1] = messageRow
+        isInteractingWithChatGPT = false
+        speakLastResp
