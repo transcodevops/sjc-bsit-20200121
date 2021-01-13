@@ -84,4 +84,4 @@ class ViewModel: ObservableObject {
     }
     
     func speakLastResponse() {
-        guar
+        guard let synthesizer, let responseText = self.messages.last?.responseText, !responseText.isEm
