@@ -84,4 +84,8 @@ class ViewModel: ObservableObject {
     }
     
     func speakLastResponse() {
-        guard let synthesizer, let responseText = self.messages.last?.responseText, !responseText.isEm
+        guard let synthesizer, let responseText = self.messages.last?.responseText, !responseText.isEmpty else {
+            return
+        }
+        stopSpeaking()
+        let u
