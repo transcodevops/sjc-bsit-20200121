@@ -89,4 +89,7 @@ class ViewModel: ObservableObject {
         }
         stopSpeaking()
         let utterance = AVSpeechUtterance(string: responseText)
-        utterance.voice = .init(l
+        utterance.voice = .init(language: "en-US")
+        utterance.rate = 0.5
+        utterance.pitchMultiplier = 0.8
+      
