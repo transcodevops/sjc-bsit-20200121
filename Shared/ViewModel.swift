@@ -92,4 +92,8 @@ class ViewModel: ObservableObject {
         utterance.voice = .init(language: "en-US")
         utterance.rate = 0.5
         utterance.pitchMultiplier = 0.8
-      
+        utterance.postUtteranceDelay = 0.2
+        synthesizer.speak(utterance )
+    }
+    
+  
