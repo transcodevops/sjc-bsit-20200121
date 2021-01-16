@@ -88,4 +88,5 @@ class ViewModel: ObservableObject {
             return
         }
         stopSpeaking()
-        let u
+        let utterance = AVSpeechUtterance(string: responseText)
+        utterance.voice = .init(l
