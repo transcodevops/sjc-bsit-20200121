@@ -98,4 +98,6 @@ class ViewModel: ObservableObject {
     
     func stopSpeaking() {
         synthesizer?.stopSpeaking(at: .immediate)
-   
+    }
+    
+}
