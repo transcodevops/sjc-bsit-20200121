@@ -1,4 +1,9 @@
 {
   "images" : [
     {
-      "idio
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "unnamed.jpg",
+      "idiom"
