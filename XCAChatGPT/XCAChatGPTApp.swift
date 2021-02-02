@@ -10,4 +10,8 @@ import SwiftUI
 @main
 struct XCAChatGPTApp: App {
     
-    @StateObject var vm = ViewModel(api: ChatGPTAPI(apiK
+    @StateObject var vm = ViewModel(api: ChatGPTAPI(apiKey: "PROVIDE_API_KEY"))
+    
+    var body: some Scene {
+        WindowGroup {
+            NavigationS
