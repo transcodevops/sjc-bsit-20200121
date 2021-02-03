@@ -14,4 +14,7 @@ struct XCAChatGPTApp: App {
     
     var body: some Scene {
         WindowGroup {
-            NavigationS
+            NavigationStack {
+                ContentView(vm: vm)
+                    .toolbar {
+               
