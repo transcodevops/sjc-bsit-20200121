@@ -17,4 +17,6 @@ struct XCAChatGPTApp: App {
             NavigationStack {
                 ContentView(vm: vm)
                     .toolbar {
-               
+                        ToolbarItem {
+                            Button("Clear") {
+                    
