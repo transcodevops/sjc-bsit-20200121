@@ -19,4 +19,6 @@ struct XCAChatGPTApp: App {
                     .toolbar {
                         ToolbarItem {
                             Button("Clear") {
-                    
+                                vm.clearMessages()
+                            }
+                            .disabled(vm.isInt
