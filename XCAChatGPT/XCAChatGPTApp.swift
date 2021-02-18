@@ -21,4 +21,7 @@ struct XCAChatGPTApp: App {
                             Button("Clear") {
                                 vm.clearMessages()
                             }
-                            .disabled(vm.isInt
+                            .disabled(vm.isInteractingWithChatGPT)
+                        }
+                    }
+      
