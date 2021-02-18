@@ -24,4 +24,7 @@ struct XCAChatGPTApp: App {
                             .disabled(vm.isInteractingWithChatGPT)
                         }
                     }
-      
+            }
+        }
+    }
+}
