@@ -7,4 +7,4 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8B057585298E52C000A56C9A /* XCAC
+		8B057585298E52C000A56C9A /* XCAChatGPTMacApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B057584298E52C000A56C9A /* XCAChatGPT
