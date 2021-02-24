@@ -7,4 +7,5 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8B057585298E52C000A56C9A /* XCAChatGPTMacApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B057584298E52C000A56C9A /* XCAChatGPT
+		8B057585298E52C000A56C9A /* XCAChatGPTMacApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B057584298E52C000A56C9A /* XCAChatGPTMacApp.swift */; };
+		8B057589298E52C000A56C9A /* Assets.xcassets in Resources */ = {is
