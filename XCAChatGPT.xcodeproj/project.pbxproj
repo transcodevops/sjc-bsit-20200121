@@ -18,4 +18,5 @@
 		8B057597298E52DD00A56C9A /* MessageRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91C015298ADC9D0079AF26 /* MessageRow.swift */; };
 		8B0575F1298FA9D800A56C9A /* XCAChatGPTWatch Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 8B0575F0298FA9D800A56C9A /* XCAChatGPTWatch Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		8B0575F6298FA9D800A56C9A /* XCAChatGPTWatchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0575F5298FA9D800A56C9A /* XCAChatGPTWatchApp.swift */; };
-		8B0575FA298FA9DA00A56C9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B0575F9298FA9DA00A56C9A /* Asset
+		8B0575FA298FA9DA00A56C9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B0575F9298FA9DA00A56C9A /* Assets.xcassets */; };
+		8B0575FD298FA9DA00A56C9A /* Preview Assets.xcassets in Resou
