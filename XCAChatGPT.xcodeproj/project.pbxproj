@@ -27,4 +27,4 @@
 		8B057609298FA9E900A56C9A /* MessageRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91C015298ADC9D0079AF26 /* MessageRow.swift */; };
 		8B05760A298FA9E900A56C9A /* ChatGPTAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91C011298AD0CE0079AF26 /* ChatGPTAPI.swift */; };
 		8B057614298FBDB600A56C9A /* XCAChatGPTTVApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B057613298FBDB600A56C9A /* XCAChatGPTTVApp.swift */; };
-		8B057618298FBDB700A56C9A /* Assets
+		8B057618298FBDB700A56C9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B057617298FBDB700A56C9A /* 
