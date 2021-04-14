@@ -30,4 +30,4 @@
 		8B057618298FBDB700A56C9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B057617298FBDB700A56C9A /* Assets.xcassets */; };
 		8B05761B298FBDB700A56C9A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B05761A298FBDB700A56C9A /* Preview Assets.xcassets */; };
 		8B05761F298FBE0400A56C9A /* ChatGPTAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91C011298AD0CE0079AF26 /* ChatGPTAPI.swift */; };
-		8
+		8B057620298FBE0400A56C9A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91C0
