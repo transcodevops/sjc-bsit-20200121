@@ -38,4 +38,4 @@
 		8B05764829909A9200A56C9A /* ScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B05764729909A9200A56C9A /* ScrollView.swift */; };
 		8B82463429B1F49F0069B8F7 /* ChatGPTAPIModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82463329B1F49F0069B8F7 /* ChatGPTAPIModels.swift */; };
 		8B82463529B1F49F0069B8F7 /* ChatGPTAPIModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82463329B1F49F0069B8F7 /* ChatGPTAPIModels.swift */; };
-		8B82463629B1F49F0069B8F7 
+		8B82463629B1F49F0069B8F7 /* ChatGPTAPIModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B8246332
