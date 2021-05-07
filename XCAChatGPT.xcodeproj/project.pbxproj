@@ -43,4 +43,4 @@
 		8B91C004298AD09E0079AF26 /* XCAChatGPTApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91C003298AD09E0079AF26 /* XCAChatGPTApp.swift */; };
 		8B91C006298AD09E0079AF26 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B91C005298AD09E0079AF26 /* ContentView.swift */; };
 		8B91C008298AD09F0079AF26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B91C007298AD09F0079AF26 /* Assets.xcassets */; };
-		8B91C00B298AD09F0
+		8B91C00B298AD09F0079AF26 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B91C00A298AD09F0079AF26 
