@@ -52,4 +52,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		8B0575F2298FA9D800A56C9A /* PBXContainerItemPr
+		8B0575F2298FA9D800A56C9A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8B91BFF8298AD09E0079AF26 /* Project o
