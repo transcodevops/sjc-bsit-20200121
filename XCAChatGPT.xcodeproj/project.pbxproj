@@ -63,3 +63,6 @@
 
 /* Begin PBXCopyFilesBuildPhase section */
 		8B057600298FA9DA00A56C9A /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS
