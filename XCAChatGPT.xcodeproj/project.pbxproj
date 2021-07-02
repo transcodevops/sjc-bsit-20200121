@@ -65,4 +65,7 @@
 		8B057600298FA9DA00A56C9A /* Embed Watch Content */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "$(CONTENTS
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				8B0575F1298FA9D
