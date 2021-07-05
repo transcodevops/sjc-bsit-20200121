@@ -68,4 +68,6 @@
 			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
 			dstSubfolderSpec = 16;
 			files = (
-				8B0575F1298FA9D
+				8B0575F1298FA9D800A56C9A /* XCAChatGPTWatch Watch App.app in Embed Watch Content */,
+			);
+			name = "
