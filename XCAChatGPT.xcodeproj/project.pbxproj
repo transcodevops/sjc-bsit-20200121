@@ -84,4 +84,4 @@
 		8B0575EB298FA9D800A56C9A /* XCAChatGPTWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XCAChatGPTWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B0575F0298FA9D800A56C9A /* XCAChatGPTWatch Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "XCAChatGPTWatch Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B0575F5298FA9D800A56C9A /* XCAChatGPTWatchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCAChatGPTWatchApp.swift; sourceTree = "<group>"; };
-		8B0575F9298FA9DA00A56C9A /* Assets.xcassets */ = {isa = PBXFileReference; last
+		8B0575F9298FA9DA00A56C9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; 
