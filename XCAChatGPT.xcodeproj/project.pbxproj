@@ -88,4 +88,5 @@
 		8B0575FC298FA9DA00A56C9A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8B057611298FBDB600A56C9A /* XCAChatGPTTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XCAChatGPTTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B057613298FBDB600A56C9A /* XCAChatGPTTVApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCAChatGPTTVApp.swift; sourceTree = "<group>"; };
-		8B057617298FBDB700A56C9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog;
+		8B057617298FBDB700A56C9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8B05761A298FBDB700A56C9A /* Preview Assets.xcassets */ = {isa =
