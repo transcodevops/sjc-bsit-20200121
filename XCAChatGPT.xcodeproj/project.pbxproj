@@ -104,4 +104,7 @@
 		8B91C019298ADF7F0079AF26 /* MessageRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFrameworksBuildPhase sec
+/* Begin PBXFrameworksBuildPhase section */
+		8B05757F298E52C000A56C9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+		
