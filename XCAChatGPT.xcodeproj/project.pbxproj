@@ -107,4 +107,8 @@
 /* Begin PBXFrameworksBuildPhase section */
 		8B05757F298E52C000A56C9A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
 		
