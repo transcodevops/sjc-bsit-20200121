@@ -121,4 +121,9 @@
 		};
 		8B05760E298FBDB600A56C9A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
-			buildActionMask =
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B91BFFD2
