@@ -133,4 +133,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-/* End PBXFrameworksBuildPhase s
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8B057583298E52C000A56C9A /* XCAChatGPTMac */ = {
