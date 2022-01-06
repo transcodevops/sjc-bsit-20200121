@@ -137,3 +137,7 @@
 
 /* Begin PBXGroup section */
 		8B057583298E52C000A56C9A /* XCAChatGPTMac */ = {
+			isa = PBXGroup;
+			children = (
+				8B057584298E52C000A56C9A /* XCAChatGPTMacApp.swift */,
+		
