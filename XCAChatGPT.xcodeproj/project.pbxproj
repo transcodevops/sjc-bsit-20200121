@@ -140,4 +140,5 @@
 			isa = PBXGroup;
 			children = (
 				8B057584298E52C000A56C9A /* XCAChatGPTMacApp.swift */,
-		
+				8B057588298E52C000A56C9A /* Assets.xcassets */,
+				8B05758D298E52C000A56C9A /* XCAChatGPTMac.entitlemen
