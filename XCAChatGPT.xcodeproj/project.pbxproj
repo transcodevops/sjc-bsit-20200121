@@ -145,4 +145,8 @@
 				8B05758A298E52C000A56C9A /* Preview Content */,
 			);
 			path = XCAChatGPTMac;
-			sourceTree = "<gr
+			sourceTree = "<group>";
+		};
+		8B05758A298E52C000A56C9A /* Preview Content */ = {
+			isa = PBXGroup;
+			chi
