@@ -153,4 +153,7 @@
 				8B05758B298E52C000A56C9A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-		
+			sourceTree = "<group>";
+		};
+		8B057591298E52CB00A56C9A /* Shared */ = {
+			isa = PBXGr
