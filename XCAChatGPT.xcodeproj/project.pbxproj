@@ -149,4 +149,8 @@
 		};
 		8B05758A298E52C000A56C9A /* Preview Content */ = {
 			isa = PBXGroup;
-			chi
+			children = (
+				8B05758B298E52C000A56C9A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+		
