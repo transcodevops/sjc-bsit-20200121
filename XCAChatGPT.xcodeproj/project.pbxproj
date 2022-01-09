@@ -156,4 +156,7 @@
 			sourceTree = "<group>";
 		};
 		8B057591298E52CB00A56C9A /* Shared */ = {
-			isa = PBXGr
+			isa = PBXGroup;
+			children = (
+				8B91C011298AD0CE0079AF26 /* ChatGPTAPI.swift */,
+				8B82463329B1
