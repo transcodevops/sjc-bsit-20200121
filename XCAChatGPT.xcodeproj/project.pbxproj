@@ -162,4 +162,6 @@
 				8B82463329B1F49F0069B8F7 /* ChatGPTAPIModels.swift */,
 				8B91C005298AD09E0079AF26 /* ContentView.swift */,
 				8B91C017298ADF4E0079AF26 /* DotLoadingView.swift */,
-				8B91C019298ADF7F0079AF26 /
+				8B91C019298ADF7F0079AF26 /* MessageRowView.swift */,
+				8B91C013298ADC560079AF26 /* ViewModel.swift */,
+		
