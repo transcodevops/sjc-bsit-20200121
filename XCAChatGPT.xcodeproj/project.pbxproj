@@ -167,4 +167,8 @@
 				8B91C015298ADC9D0079AF26 /* MessageRow.swift */,
 			);
 			path = Shared;
-			sourceTree = "<gro
+			sourceTree = "<group>";
+		};
+		8B0575F4298FA9D800A56C9A /* XCAChatGPTWatch Watch App */ = {
+			isa = PBXGroup;
+			
