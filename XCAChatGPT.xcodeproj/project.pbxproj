@@ -171,4 +171,6 @@
 		};
 		8B0575F4298FA9D800A56C9A /* XCAChatGPTWatch Watch App */ = {
 			isa = PBXGroup;
-			
+			children = (
+				8B0575F5298FA9D800A56C9A /* XCAChatGPTWatchApp.swift */,
+				8B0575F9298
