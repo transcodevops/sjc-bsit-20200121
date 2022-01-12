@@ -173,4 +173,7 @@
 			isa = PBXGroup;
 			children = (
 				8B0575F5298FA9D800A56C9A /* XCAChatGPTWatchApp.swift */,
-				8B0575F9298
+				8B0575F9298FA9DA00A56C9A /* Assets.xcassets */,
+				8B0575FB298FA9DA00A56C9A /* Preview Content */,
+			);
+			path = "X
