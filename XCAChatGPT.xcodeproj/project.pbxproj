@@ -176,4 +176,7 @@
 				8B0575F9298FA9DA00A56C9A /* Assets.xcassets */,
 				8B0575FB298FA9DA00A56C9A /* Preview Content */,
 			);
-			path = "X
+			path = "XCAChatGPTWatch Watch App";
+			sourceTree = "<group>";
+		};
+		8B0575FB298FA9DA00A56C9A /* Preview 
