@@ -182,4 +182,9 @@
 		8B0575FB298FA9DA00A56C9A /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				8B0575FC298FA9DA00A56C9A /* Preview Asset
+				8B0575FC298FA9DA00A56C9A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8B057612
