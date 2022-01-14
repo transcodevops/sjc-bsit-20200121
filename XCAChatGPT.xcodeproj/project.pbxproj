@@ -179,4 +179,7 @@
 			path = "XCAChatGPTWatch Watch App";
 			sourceTree = "<group>";
 		};
-		8B0575FB298FA9DA00A56C9A /* Preview 
+		8B0575FB298FA9DA00A56C9A /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				8B0575FC298FA9DA00A56C9A /* Preview Asset
