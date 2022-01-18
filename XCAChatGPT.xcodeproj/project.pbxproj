@@ -192,4 +192,6 @@
 			children = (
 				8B057613298FBDB600A56C9A /* XCAChatGPTTVApp.swift */,
 				8B057617298FBDB700A56C9A /* Assets.xcassets */,
-				8B05761929
+				8B057619298FBDB700A56C9A /* Preview Content */,
+				8B05764729909A9200A56C9A /* ScrollView.swift */,
+			)
