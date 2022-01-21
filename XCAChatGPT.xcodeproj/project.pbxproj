@@ -201,4 +201,9 @@
 		8B057619298FBDB700A56C9A /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				8B05761A298FBDB700A56C9A /* Preview Assets.xcass
+				8B05761A298FBDB700A56C9A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8B91BFF7298AD09E0079AF26 = 
