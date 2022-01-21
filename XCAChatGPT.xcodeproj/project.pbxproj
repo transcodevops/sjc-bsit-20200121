@@ -206,4 +206,8 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		8B91BFF7298AD09E0079AF26 = 
+		8B91BFF7298AD09E0079AF26 = {
+			isa = PBXGroup;
+			children = (
+				8B057591298E52CB00A56C9A /* Shared */,
+	
