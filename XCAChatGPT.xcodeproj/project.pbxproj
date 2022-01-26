@@ -227,4 +227,7 @@
 				8B0575F0298FA9D800A56C9A /* XCAChatGPTWatch Watch App.app */,
 				8B057611298FBDB600A56C9A /* XCAChatGPTTV.app */,
 			);
-			n
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8B91C002298AD09E0079AF26 /
