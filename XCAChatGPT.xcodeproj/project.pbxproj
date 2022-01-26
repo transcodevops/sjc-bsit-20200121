@@ -230,4 +230,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8B91C002298AD09E0079AF26 /
+		8B91C002298AD09E0079AF26 /* XCAChatGPT */ = {
+			isa = PBXGroup;
+			children = (
+				8B91C003298AD09E0079AF26 /* XCAChatGPT
