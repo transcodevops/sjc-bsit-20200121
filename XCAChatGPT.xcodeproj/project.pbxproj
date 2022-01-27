@@ -235,4 +235,7 @@
 			children = (
 				8B91C003298AD09E0079AF26 /* XCAChatGPTApp.swift */,
 				8B91C007298AD09F0079AF26 /* Assets.xcassets */,
-				8B91C
+				8B91C009298AD09F0079AF26 /* Preview Content */,
+			);
+			path = XCAChatGPT;
+			sourceTr
