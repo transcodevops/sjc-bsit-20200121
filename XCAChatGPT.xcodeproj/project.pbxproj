@@ -238,4 +238,7 @@
 				8B91C009298AD09F0079AF26 /* Preview Content */,
 			);
 			path = XCAChatGPT;
-			sourceTr
+			sourceTree = "<group>";
+		};
+		8B91C009298AD09F0079AF26 /* Preview Content */ = {
+			isa = PBXGroup;
