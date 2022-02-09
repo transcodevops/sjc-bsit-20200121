@@ -242,3 +242,7 @@
 		};
 		8B91C009298AD09F0079AF26 /* Preview Content */ = {
 			isa = PBXGroup;
+			children = (
+				8B91C00A298AD09F0079AF26 /* Preview Assets.xcassets */,
+			);
+		
