@@ -251,4 +251,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8B057581298E52C000A56C9A /* XCAChatGPTMac *
+		8B057581298E52C000A56C9A /* XCAChatGPTMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B057590298E52C000A56C9A /* Bui
