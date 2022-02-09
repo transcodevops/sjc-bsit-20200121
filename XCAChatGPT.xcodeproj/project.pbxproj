@@ -245,4 +245,7 @@
 			children = (
 				8B91C00A298AD09F0079AF26 /* Preview Assets.xcassets */,
 			);
-		
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup secti
