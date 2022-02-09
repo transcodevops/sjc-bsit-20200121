@@ -248,4 +248,7 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-/* End PBXGroup secti
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8B057581298E52C000A56C9A /* XCAChatGPTMac *
