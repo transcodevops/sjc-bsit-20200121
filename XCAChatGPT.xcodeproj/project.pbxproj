@@ -255,4 +255,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8B057590298E52C000A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTMac" */;
 			buildPhases = (
-				8B05757E
+				8B05757E298E52C000A56C9A /* Sources */,
+				8B05757F298E52C000A56C9A /* Frameworks */,
+				8B05758029
