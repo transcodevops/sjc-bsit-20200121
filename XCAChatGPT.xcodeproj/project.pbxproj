@@ -257,4 +257,9 @@
 			buildPhases = (
 				8B05757E298E52C000A56C9A /* Sources */,
 				8B05757F298E52C000A56C9A /* Frameworks */,
-				8B05758029
+				8B057580298E52C000A56C9A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			
