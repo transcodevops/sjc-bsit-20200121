@@ -265,4 +265,7 @@
 			);
 			name = XCAChatGPTMac;
 			productName = XCAChatGPTMac;
-			productReference = 8B057582298E
+			productReference = 8B057582298E52C000A56C9A /* XCAChatGPTMac.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8B057
