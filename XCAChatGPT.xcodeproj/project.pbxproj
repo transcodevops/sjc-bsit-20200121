@@ -270,4 +270,4 @@
 		};
 		8B0575EA298FA9D800A56C9A /* XCAChatGPTWatch */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationLi
+			buildConfigurationList = 8B057604298FA9DA00A56C9A /* Build configuration list for PBXNativeTarget "XC
