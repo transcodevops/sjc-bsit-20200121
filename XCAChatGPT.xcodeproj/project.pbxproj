@@ -273,4 +273,8 @@
 			buildConfigurationList = 8B057604298FA9DA00A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTWatch" */;
 			buildPhases = (
 				8B0575E9298FA9D800A56C9A /* Resources */,
-				8B
+				8B057600298FA9DA00A56C9A /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			de
