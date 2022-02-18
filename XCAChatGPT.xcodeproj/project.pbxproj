@@ -280,4 +280,6 @@
 			dependencies = (
 				8B0575F3298FA9D800A56C9A /* PBXTargetDependency */,
 			);
-			name = XCAChatGPTW
+			name = XCAChatGPTWatch;
+			productName = XCAChatGPTWatch;
+			productReference = 8B0575EB298FA9D800A56C9A /* 
