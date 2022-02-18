@@ -283,4 +283,7 @@
 			name = XCAChatGPTWatch;
 			productName = XCAChatGPTWatch;
 			productReference = 8B0575EB298FA9D800A56C9A /* XCAChatGPTWatch.app */;
-			productType = "com.apple.product-type.application.watchapp2-containe
+			productType = "com.apple.product-type.application.watchapp2-container";
+		};
+		8B0575EF298FA9D800A56C9A /* XCAChatGPTWatch Watch App */ = {
+			isa = PBXNativeTa
