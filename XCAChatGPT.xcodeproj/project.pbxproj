@@ -289,4 +289,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8B057603298FA9DA00A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTWatch Watch App" */;
 			buildPhases = (
-				8B0575EC298FA9D800A56C9A
+				8B0575EC298FA9D800A56C9A /* Sources */,
+				8B0575ED298FA9D800A56C9A /* Frameworks */,
+				8B0575EE298FA9D800A56C9A /* Resou
