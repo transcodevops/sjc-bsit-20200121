@@ -286,4 +286,5 @@
 			productType = "com.apple.product-type.application.watchapp2-container";
 		};
 		8B0575EF298FA9D800A56C9A /* XCAChatGPTWatch Watch App */ = {
-			isa = PBXNativeTa
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B057603298FA9DA00A56C9A /* Build configuration list fo
