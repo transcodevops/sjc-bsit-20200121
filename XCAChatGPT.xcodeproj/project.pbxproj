@@ -297,4 +297,6 @@
 			);
 			dependencies = (
 			);
-			name = "XCAChatGPTW
+			name = "XCAChatGPTWatch Watch App";
+			productName = "XCAChatGPTWatch Watch App";
+			productReference = 8B0575F0298FA9D8
