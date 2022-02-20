@@ -291,4 +291,10 @@
 			buildPhases = (
 				8B0575EC298FA9D800A56C9A /* Sources */,
 				8B0575ED298FA9D800A56C9A /* Frameworks */,
-				8B0575EE298FA9D800A56C9A /* Resou
+				8B0575EE298FA9D800A56C9A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "XCAChatGPTW
