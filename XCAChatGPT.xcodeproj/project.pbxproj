@@ -300,4 +300,8 @@
 			name = "XCAChatGPTWatch Watch App";
 			productName = "XCAChatGPTWatch Watch App";
 			productReference = 8B0575F0298FA9D800A56C9A /* XCAChatGPTWatch Watch App.app */;
-			productType = "com.apple.product-type.app
+			productType = "com.apple.product-type.application";
+		};
+		8B057610298FBDB600A56C9A /* XCAChatGPTTV */ = {
+			isa = PBXNativeTarget;
+	
