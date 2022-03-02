@@ -307,4 +307,7 @@
 			buildConfigurationList = 8B05761C298FBDB700A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTTV" */;
 			buildPhases = (
 				8B05760D298FBDB600A56C9A /* Sources */,
-				8B05760
+				8B05760E298FBDB600A56C9A /* Frameworks */,
+				8B05760F298FBDB600A56C9A /* Resources */,
+			);
+			bu
