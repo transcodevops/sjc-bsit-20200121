@@ -317,4 +317,6 @@
 			name = XCAChatGPTTV;
 			productName = XCAChatGPTTV;
 			productReference = 8B057611298FBDB600A56C9A /* XCAChatGPTTV.app */;
-			product
+			productType = "com.apple.product-type.application";
+		};
+		8B91BFFF298AD09E0079AF26 /* XCAChatGPT *
