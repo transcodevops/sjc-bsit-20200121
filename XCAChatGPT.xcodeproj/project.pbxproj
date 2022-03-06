@@ -319,4 +319,6 @@
 			productReference = 8B057611298FBDB600A56C9A /* XCAChatGPTTV.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8B91BFFF298AD09E0079AF26 /* XCAChatGPT *
+		8B91BFFF298AD09E0079AF26 /* XCAChatGPT */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B91C00E298AD09F0079A
