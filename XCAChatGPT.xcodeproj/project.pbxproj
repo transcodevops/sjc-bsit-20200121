@@ -321,4 +321,6 @@
 		};
 		8B91BFFF298AD09E0079AF26 /* XCAChatGPT */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8B91C00E298AD09F0079A
+			buildConfigurationList = 8B91C00E298AD09F0079AF26 /* Build configuration list for PBXNativeTarget "XCAChatGPT" */;
+			buildPhases = (
+				8B91BFF
