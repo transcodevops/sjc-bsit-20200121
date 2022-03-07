@@ -323,4 +323,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8B91C00E298AD09F0079AF26 /* Build configuration list for PBXNativeTarget "XCAChatGPT" */;
 			buildPhases = (
-				8B91BFF
+				8B91BFFC298AD09E0079AF26 /* Sources */,
+				8B91BFFD298AD09E0079AF26 /* Frameworks */,
+		
