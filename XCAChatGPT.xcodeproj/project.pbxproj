@@ -329,3 +329,8 @@
 			);
 			buildRules = (
 			);
+			dependencies = (
+			);
+			name = XCAChatGPT;
+			productName = XCAChatGPT;
+			productRefer
