@@ -333,4 +333,5 @@
 			);
 			name = XCAChatGPT;
 			productName = XCAChatGPT;
-			productRefer
+			productReference = 8B91C000298AD09E0079AF26 /* XCAChatGPT.app */;
+			productType = "com.apple.produ
