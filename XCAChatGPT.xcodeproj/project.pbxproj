@@ -334,4 +334,8 @@
 			name = XCAChatGPT;
 			productName = XCAChatGPT;
 			productReference = 8B91C000298AD09E0079AF26 /* XCAChatGPT.app */;
-			productType = "com.apple.produ
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
