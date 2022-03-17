@@ -352,4 +352,7 @@
 					8B0575EA298FA9D800A56C9A = {
 						CreatedOnToolsVersion = 14.2;
 					};
-				
+					8B0575EF298FA9D800A56C9A = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					8B057610298FBDB600A56C9A = {
