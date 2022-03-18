@@ -364,4 +364,6 @@
 				};
 			};
 			buildConfigurationList = 8B91BFFB298AD09E0079AF26 /* Build configuration list for PBXProject "XCAChatGPT" */;
-			compati
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings =
