@@ -359,4 +359,8 @@
 						CreatedOnToolsVersion = 14.2;
 					};
 					8B91BFFF298AD09E0079AF26 = {
-						Crea
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 8B91B
