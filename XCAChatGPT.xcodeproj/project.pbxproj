@@ -363,4 +363,5 @@
 					};
 				};
 			};
-			buildConfigurationList = 8B91B
+			buildConfigurationList = 8B91BFFB298AD09E0079AF26 /* Build configuration list for PBXProject "XCAChatGPT" */;
+			compati
