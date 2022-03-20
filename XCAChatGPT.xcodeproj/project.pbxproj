@@ -366,4 +366,10 @@
 			buildConfigurationList = 8B91BFFB298AD09E0079AF26 /* Build configuration list for PBXProject "XCAChatGPT" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
-			hasScannedForEncodings =
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8B91BFF7298AD09E0079AF26;
+	
