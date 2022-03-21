@@ -377,4 +377,6 @@
 			projectRoot = "";
 			targets = (
 				8B91BFFF298AD09E0079AF26 /* XCAChatGPT */,
-				8B0575
+				8B057581298E52C000A56C9A /* XCAChatGPTMac */,
+				8B0575EA298FA9D800A56C9A /* XCAChatGPTWatch */,
+				8B0575EF
