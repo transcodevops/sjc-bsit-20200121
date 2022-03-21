@@ -372,4 +372,6 @@
 				Base,
 			);
 			mainGroup = 8B91BFF7298AD09E0079AF26;
-	
+			productRefGroup = 8B91C001298AD09E0079AF26 /* Products */;
+			projectDirPath = "";
+			proje
