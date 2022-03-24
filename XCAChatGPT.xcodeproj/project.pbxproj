@@ -388,4 +388,6 @@
 /* Begin PBXResourcesBuildPhase section */
 		8B057580298E52C000A56C9A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-		
+			buildActionMask = 2147483647;
+			files = (
+				8B05758C298E52C000A56C9A /* Preview Assets.xcassets i
