@@ -380,4 +380,9 @@
 				8B057581298E52C000A56C9A /* XCAChatGPTMac */,
 				8B0575EA298FA9D800A56C9A /* XCAChatGPTWatch */,
 				8B0575EF298FA9D800A56C9A /* XCAChatGPTWatch Watch App */,
-				8B057610298FBDB600A56C9A /* XCAChatG
+				8B057610298FBDB600A56C9A /* XCAChatGPTTV */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
