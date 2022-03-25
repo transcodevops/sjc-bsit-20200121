@@ -392,4 +392,7 @@
 			files = (
 				8B05758C298E52C000A56C9A /* Preview Assets.xcassets in Resources */,
 				8B057589298E52C000A56C9A /* Assets.xcassets in Resources */,
-	
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B0575E9298FA9D800A56C9A /* Reso
