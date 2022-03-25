@@ -395,4 +395,9 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8B0575E9298FA9D800A56C9A /* Reso
+		8B0575E9298FA9D800A56C9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			
