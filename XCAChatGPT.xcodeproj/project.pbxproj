@@ -400,4 +400,7 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B0575EE298FA9D800A56C9A /* Resources */ = {
+		
