@@ -410,4 +410,7 @@
 				8B0575FA298FA9DA00A56C9A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
-		
+		};
+		8B05760F298FBDB600A56C9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildAct
