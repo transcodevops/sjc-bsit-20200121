@@ -413,4 +413,6 @@
 		};
 		8B05760F298FBDB600A56C9A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			buildAct
+			buildActionMask = 2147483647;
+			files = (
+				8B05761B298FBDB700A56C9A /* Preview Asset
