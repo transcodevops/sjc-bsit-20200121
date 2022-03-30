@@ -421,4 +421,7 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		8B91BFFE298AD09E0079AF26 /* Resources */ = {
-			isa = PBXResourcesBuild
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B91C00B298AD09F0079AF26 /* Preview Assets.xc
