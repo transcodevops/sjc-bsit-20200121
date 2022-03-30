@@ -418,4 +418,7 @@
 				8B05761B298FBDB700A56C9A /* Preview Assets.xcassets in Resources */,
 				8B057618298FBDB700A56C9A /* Assets.xcassets in Resources */,
 			);
-			runOnlyForDe
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B91BFFE298AD09E0079AF26 /* Resources */ = {
+			isa = PBXResourcesBuild
