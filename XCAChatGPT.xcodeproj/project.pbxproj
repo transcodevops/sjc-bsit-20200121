@@ -426,3 +426,7 @@
 			files = (
 				8B91C00B298AD09F0079AF26 /* Preview Assets.xcassets in Resources */,
 				8B91C008298AD09F0079AF26 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section 
