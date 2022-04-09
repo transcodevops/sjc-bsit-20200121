@@ -442,4 +442,5 @@
 				8B057594298E52D900A56C9A /* ContentView.swift in Sources */,
 				8B057592298E52D900A56C9A /* DotLoadingView.swift in Sources */,
 				8B057595298E52D900A56C9A /* MessageRowView.swift in Sources */,
-				8B057585298E
+				8B057585298E52C000A56C9A /* XCAChatGPTMacApp.swift in Sources */,
+				8B057596298E52DD00A56C9A /* ViewModel.swift 
