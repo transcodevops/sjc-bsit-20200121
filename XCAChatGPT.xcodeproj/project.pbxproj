@@ -447,4 +447,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8B0575
+		8B0575EC298FA9D800A56C9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+		
