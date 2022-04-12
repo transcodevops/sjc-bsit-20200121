@@ -452,4 +452,5 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B057608298FA9E900A56C9A /* DotLoadingView.swift in Sources */,
-				8B057606298FA9E90
+				8B057606298FA9E900A56C9A /* MessageRowView.swift in Sources */,
+				8B82463629B1F49F0069B8F7 /* ChatGPTA
