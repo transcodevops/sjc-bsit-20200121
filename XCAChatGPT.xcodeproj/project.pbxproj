@@ -450,4 +450,6 @@
 		8B0575EC298FA9D800A56C9A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
-		
+			files = (
+				8B057608298FA9E900A56C9A /* DotLoadingView.swift in Sources */,
+				8B057606298FA9E90
