@@ -463,4 +463,7 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		8B05760D298FBDB600A56C9A /* Sources */ = {
-			isa = PBXSources
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B057621298FBE0400A56C9A /* MessageRow.swift in So
