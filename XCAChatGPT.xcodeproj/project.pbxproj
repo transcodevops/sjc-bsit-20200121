@@ -460,4 +460,7 @@
 				8B057607298FA9E900A56C9A /* ViewModel.swift in Sources */,
 				8B0575F6298FA9D800A56C9A /* XCAChatGPTWatchApp.swift in Sources */,
 			);
-			runOnlyForDeploy
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B05760D298FBDB600A56C9A /* Sources */ = {
+			isa = PBXSources
