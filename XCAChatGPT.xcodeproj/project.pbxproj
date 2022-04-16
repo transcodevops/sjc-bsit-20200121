@@ -468,4 +468,5 @@
 			files = (
 				8B057621298FBE0400A56C9A /* MessageRow.swift in Sources */,
 				8B057622298FBE0400A56C9A /* MessageRowView.swift in Sources */,
-				8B82463729B1F49F0069B8F7 /* C
+				8B82463729B1F49F0069B8F7 /* ChatGPTAPIModels.swift in Sources */,
+				8B05761F298FBE0400A56C9A /* ChatGPTAPI.swift in Sources */
