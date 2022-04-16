@@ -466,4 +466,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B057621298FBE0400A56C9A /* MessageRow.swift in So
+				8B057621298FBE0400A56C9A /* MessageRow.swift in Sources */,
+				8B057622298FBE0400A56C9A /* MessageRowView.swift in Sources */,
+				8B82463729B1F49F0069B8F7 /* C
