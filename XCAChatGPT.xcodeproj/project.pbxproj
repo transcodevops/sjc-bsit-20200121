@@ -474,4 +474,8 @@
 				8B057614298FBDB600A56C9A /* XCAChatGPTTVApp.swift in Sources */,
 				8B05764829909A9200A56C9A /* ScrollView.swift in Sources */,
 				8B057620298FBE0400A56C9A /* ContentView.swift in Sources */,
-				8B057624298FBE0400A56C9A /* Vie
+				8B057624298FBE0400A56C9A /* ViewModel.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B91BFF
