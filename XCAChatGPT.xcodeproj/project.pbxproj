@@ -472,4 +472,6 @@
 				8B05761F298FBE0400A56C9A /* ChatGPTAPI.swift in Sources */,
 				8B057623298FBE0400A56C9A /* DotLoadingView.swift in Sources */,
 				8B057614298FBDB600A56C9A /* XCAChatGPTTVApp.swift in Sources */,
-				8B05764829909A9200A56C9A /* ScrollView.swift in Sour
+				8B05764829909A9200A56C9A /* ScrollView.swift in Sources */,
+				8B057620298FBE0400A56C9A /* ContentView.swift in Sources */,
+				8B057624298FBE0400A56C9A /* Vie
