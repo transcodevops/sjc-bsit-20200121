@@ -483,4 +483,5 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B91C012298AD0CE0079AF26 /* ChatGPTAPI.swift in Sources */,
-				8B91C006298AD09E007
+				8B91C006298AD09E0079AF26 /* ContentView.swift in Sources */,
+				8B82463429B1F49F0069B8F7 /* ChatGPTAPIModels.s
