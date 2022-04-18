@@ -481,4 +481,6 @@
 		8B91BFFC298AD09E0079AF26 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
-			f
+			files = (
+				8B91C012298AD0CE0079AF26 /* ChatGPTAPI.swift in Sources */,
+				8B91C006298AD09E007
