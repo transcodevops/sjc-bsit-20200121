@@ -495,4 +495,6 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDepend
+/* Begin PBXTargetDependency section */
+		8B0575F3298FA9D800A56C9A /* PBXTargetDependency */ = {
+			isa = PBXTar
