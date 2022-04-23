@@ -497,4 +497,6 @@
 
 /* Begin PBXTargetDependency section */
 		8B0575F3298FA9D800A56C9A /* PBXTargetDependency */ = {
-			isa = PBXTar
+			isa = PBXTargetDependency;
+			target = 8B0575EF298FA9D800A56C9A /* XCAChatGPTWatch Watch App */;
+			targetProxy
