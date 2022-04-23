@@ -491,4 +491,8 @@
 				8B91C01A298ADF7F0079AF26 /* MessageRowView.swift in Sources */,
 				8B91C016298ADC9D0079AF26 /* MessageRow.swift in Sources */,
 			);
-			runOnlyForDeployme
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDepend
