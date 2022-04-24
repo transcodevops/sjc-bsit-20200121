@@ -503,3 +503,5 @@
 		};
 /* End PBXTargetDependency section */
 
+/* Begin XCBuildConfiguration section */
+		8B05758E298E52C000A56C9A /* Debug *
