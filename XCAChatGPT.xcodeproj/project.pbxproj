@@ -535,4 +535,6 @@
 		};
 		8B05758F298E52C000A56C9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			buildSettings = 
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = Ac
