@@ -528,4 +528,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCAChatGPTMac;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
-				SWIF
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		8B05758F29
