@@ -562,3 +562,5 @@
 			};
 			name = Release;
 		};
+		8B0575FE298FA9DA00A56C9A /* Debug */ = {
+			isa = XCBuildConfiguration;
