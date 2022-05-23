@@ -564,3 +564,6 @@
 		};
 		8B0575FE298FA9DA00A56C9A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE =
