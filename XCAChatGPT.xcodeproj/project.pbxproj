@@ -577,4 +577,7 @@
 			};
 			name = Debug;
 		};
-		8B0575FF298FA9DA00A56C9A /* Release
+		8B0575FF298FA9DA00A56C9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = 
