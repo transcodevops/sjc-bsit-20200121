@@ -589,3 +589,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.alfianlosari.XCAChatGPTWatch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		8B057601298FA9DA00A56C9A /* Debug */ = {
+			isa = X
