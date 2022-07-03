@@ -652,4 +652,7 @@
 			};
 			name = Release;
 		};
-		8B05761D29
+		8B05761D298FBDB700A56C9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETC
