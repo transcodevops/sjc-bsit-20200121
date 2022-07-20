@@ -679,4 +679,7 @@
 				TVOS_DEPLOYMENT_TARGET = 16.1;
 			};
 			name = Debug;
-		}
+		};
+		8B05761E298FBDB700A56C9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			bu
