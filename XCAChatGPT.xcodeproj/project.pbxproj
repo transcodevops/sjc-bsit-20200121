@@ -682,4 +682,6 @@
 		};
 		8B05761E298FBDB700A56C9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			bu
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMP
