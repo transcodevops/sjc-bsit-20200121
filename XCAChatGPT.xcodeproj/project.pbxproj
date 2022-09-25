@@ -768,4 +768,7 @@
 			};
 			name = Debug;
 		};
-		8B91C00D29
+		8B91C00D298AD09F0079AF26 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			
