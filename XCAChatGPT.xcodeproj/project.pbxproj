@@ -771,4 +771,6 @@
 		8B91C00D298AD09F0079AF26 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-			
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJE
