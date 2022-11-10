@@ -818,4 +818,9 @@
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				VALIDATE_
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8B91C00F298AD09F0079AF26 /* Debug */ = {
+			isa = XCBuild
