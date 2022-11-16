@@ -832,4 +832,6 @@
 				DEVELOPMENT_ASSET_PATHS = "\"XCAChatGPT/Preview Content\"";
 				DEVELOPMENT_TEAM = 5C2XD9H2JS;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				I
