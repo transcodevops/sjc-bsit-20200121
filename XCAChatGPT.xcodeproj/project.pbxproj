@@ -853,4 +853,6 @@
 		};
 		8B91C010298AD09F0079AF26 /* Release */ = {
 			isa = XCBuildConfiguration;
-			b
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILE
