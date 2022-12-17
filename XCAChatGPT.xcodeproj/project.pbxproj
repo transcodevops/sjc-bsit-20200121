@@ -880,4 +880,7 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConfiguration section *
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8B057590298E52C000A56C9A /* Build configuration li
