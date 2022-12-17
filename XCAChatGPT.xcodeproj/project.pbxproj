@@ -885,4 +885,6 @@
 /* Begin XCConfigurationList section */
 		8B057590298E52C000A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTMac" */ = {
 			isa = XCConfigurationList;
-			buildC
+			buildConfigurations = (
+				8B05758E298E52C000A56C9A /* Debug */,
+				8B05758F298E52C000A56C9A /* Release
