@@ -887,4 +887,8 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B05758E298E52C000A56C9A /* Debug */,
-				8B05758F298E52C000A56C9A /* Release
+				8B05758F298E52C000A56C9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
