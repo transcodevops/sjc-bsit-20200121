@@ -892,3 +892,4 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		8B057603298FA9DA00A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTW
