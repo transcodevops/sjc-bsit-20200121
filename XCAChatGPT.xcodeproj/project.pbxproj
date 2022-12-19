@@ -898,4 +898,7 @@
 				8B057601298FA9DA00A56C9A /* Debug */,
 				8B057602298FA9DA00A56C9A /* Release */,
 			);
-			defau
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B0576042
