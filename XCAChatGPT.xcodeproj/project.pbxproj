@@ -902,4 +902,7 @@
 			defaultConfigurationName = Release;
 		};
 		8B057604298FA9DA00A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTWatch" */ = {
-			isa = XCConfigurationList
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B0575FE298FA9DA00A56C9A /* Debug */,
+				8B0575FF
