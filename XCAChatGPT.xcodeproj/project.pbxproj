@@ -905,4 +905,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B0575FE298FA9DA00A56C9A /* Debug */,
-				8B0575FF
+				8B0575FF298FA9DA00A56C9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationNa
