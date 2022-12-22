@@ -908,4 +908,6 @@
 				8B0575FF298FA9DA00A56C9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationNa
+			defaultConfigurationName = Release;
+		};
+		8B05761C298FBDB700A56C9A /* Build configuration list for PBXNat
