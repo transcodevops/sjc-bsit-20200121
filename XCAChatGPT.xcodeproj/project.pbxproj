@@ -910,4 +910,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8B05761C298FBDB700A56C9A /* Build configuration list for PBXNat
+		8B05761C298FBDB700A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTTV" */ = {
+			isa = XCConfigurationList;
+			buildConfiguration
