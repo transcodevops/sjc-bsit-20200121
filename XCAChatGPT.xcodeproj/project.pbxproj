@@ -912,4 +912,8 @@
 		};
 		8B05761C298FBDB700A56C9A /* Build configuration list for PBXNativeTarget "XCAChatGPTTV" */ = {
 			isa = XCConfigurationList;
-			buildConfiguration
+			buildConfigurations = (
+				8B05761D298FBDB700A56C9A /* Debug */,
+				8B05761E298FBDB700A56C9A /* Release */,
+			);
+			
