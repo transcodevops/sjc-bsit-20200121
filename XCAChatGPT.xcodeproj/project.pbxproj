@@ -916,4 +916,7 @@
 				8B05761D298FBDB700A56C9A /* Debug */,
 				8B05761E298FBDB700A56C9A /* Release */,
 			);
-			
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B91BFFB298AD09E0079AF
