@@ -920,4 +920,7 @@
 			defaultConfigurationName = Release;
 		};
 		8B91BFFB298AD09E0079AF26 /* Build configuration list for PBXProject "XCAChatGPT" */ = {
-			isa = XCConfigurationList
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B91C00C298AD09F0079AF26 /* Debug */,
+				8B91C00D298AD09
