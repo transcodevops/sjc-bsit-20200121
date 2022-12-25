@@ -928,4 +928,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8B91C00E298AD09F0079AF26 /* Build configuration list for PBXNativeTar
+		8B91C00E298AD09F0079AF26 /* Build configuration list for PBXNativeTarget "XCAChatGPT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B91C00F298AD09F0079A
