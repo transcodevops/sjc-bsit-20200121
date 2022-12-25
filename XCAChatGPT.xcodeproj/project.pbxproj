@@ -926,4 +926,6 @@
 				8B91C00D298AD09F0079AF26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigura
+			defaultConfigurationName = Release;
+		};
+		8B91C00E298AD09F0079AF26 /* Build configuration list for PBXNativeTar
