@@ -935,3 +935,8 @@
 				8B91C010298AD09F0079AF26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootO
