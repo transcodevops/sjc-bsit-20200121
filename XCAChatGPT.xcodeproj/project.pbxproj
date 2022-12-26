@@ -931,4 +931,7 @@
 		8B91C00E298AD09F0079AF26 /* Build configuration list for PBXNativeTarget "XCAChatGPT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8B91C00F298AD09F0079A
+				8B91C00F298AD09F0079AF26 /* Debug */,
+				8B91C010298AD09F0079AF26 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
