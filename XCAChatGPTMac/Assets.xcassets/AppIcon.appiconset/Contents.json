@@ -3,4 +3,9 @@
     {
       "idiom" : "mac",
       "scale" : "1x",
-      "s
+      "size" : "16x16"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size
