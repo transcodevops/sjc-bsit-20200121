@@ -13,4 +13,10 @@
     {
       "idiom" : "mac",
       "scale" : "1x",
-      "size" : "32x32
+      "size" : "32x32"
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "32x32"
+    },
