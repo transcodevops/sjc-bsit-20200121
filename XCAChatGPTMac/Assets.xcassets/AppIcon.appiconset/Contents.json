@@ -34,4 +34,10 @@
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
-    }
+    },
+    {
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "256x256"
+    },
+   
