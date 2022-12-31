@@ -40,4 +40,10 @@
       "scale" : "2x",
       "size" : "256x256"
     },
-   
+    {
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "512x512"
+    },
+    {
+      "id
