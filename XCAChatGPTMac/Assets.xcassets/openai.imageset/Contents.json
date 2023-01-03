@@ -10,4 +10,9 @@
       "scale" : "2x"
     },
     {
-      "
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xc
