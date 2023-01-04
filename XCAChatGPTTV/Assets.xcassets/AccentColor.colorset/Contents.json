@@ -3,4 +3,10 @@
     {
       "color" : {
         "platform" : "universal",
-        "reference" :
+        "reference" : "systemBlueColor"
+      },
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
