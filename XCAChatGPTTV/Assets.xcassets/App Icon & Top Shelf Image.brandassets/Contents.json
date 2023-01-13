@@ -16,4 +16,9 @@
       "filename" : "Top Shelf Image Wide.imageset",
       "idiom" : "tv",
       "role" : "top-shelf-image-wide",
-      "size" : 
+      "size" : "2320x720"
+    },
+    {
+      "filename" : "Top Shelf Image.imageset",
+      "idiom" : "tv",
+ 
