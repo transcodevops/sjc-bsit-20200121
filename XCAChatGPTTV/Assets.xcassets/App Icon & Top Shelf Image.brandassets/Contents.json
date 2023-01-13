@@ -21,4 +21,9 @@
     {
       "filename" : "Top Shelf Image.imageset",
       "idiom" : "tv",
- 
+      "role" : "top-shelf-image",
+      "size" : "1920x720"
+    }
+  ],
+  "info" : {
+   
