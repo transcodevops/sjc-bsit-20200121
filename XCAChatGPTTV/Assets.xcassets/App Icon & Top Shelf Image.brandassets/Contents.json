@@ -9,4 +9,8 @@
     {
       "filename" : "App Icon.imagestack",
       "idiom" : "tv",
-      "role" : "pr
+      "role" : "primary-app-icon",
+      "size" : "400x240"
+    },
+    {
+      "filename" : "Top Shelf Imag
