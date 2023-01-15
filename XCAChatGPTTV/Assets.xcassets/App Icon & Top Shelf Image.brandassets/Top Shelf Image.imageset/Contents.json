@@ -13,4 +13,10 @@
       "scale" : "1x"
     },
     {
-      "idiom" : 
+      "idiom" : "tv-marketing",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "ve
