@@ -1,2 +1,6 @@
 {
-  "co
+  "colors" : [
+    {
+      "color" : {
+        "platform" : "universal",
+        "reference" : "systemTealC
