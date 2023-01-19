@@ -1,3 +1,8 @@
 {
   "images" : [
-   
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "unnam
