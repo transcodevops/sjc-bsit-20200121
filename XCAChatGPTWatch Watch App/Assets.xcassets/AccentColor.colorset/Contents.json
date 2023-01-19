@@ -3,4 +3,10 @@
     {
       "color" : {
         "platform" : "universal",
-        "reference" : "systemTealC
+        "reference" : "systemTealColor"
+      },
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" 
