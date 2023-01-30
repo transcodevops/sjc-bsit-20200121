@@ -8,4 +8,8 @@
 import SwiftUI
 
 @main
-struct XCAChatGPTWatch_Wat
+struct XCAChatGPTWatch_Watch_AppApp: App {
+    
+    @StateObject var vm = ViewModel(api: ChatGPTAPI(apiKey: "API_KEY"))
+    
+    var body:
