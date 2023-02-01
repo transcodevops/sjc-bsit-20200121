@@ -19,4 +19,6 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                     .edgesIgnoringSafeArea([.horizontal, .bottom])
                     .navigationBarTitleDisplayMode(.inline)
                     .toolbar {
-  
+                        ToolbarItemGroup {
+                            HStack {
+                          
