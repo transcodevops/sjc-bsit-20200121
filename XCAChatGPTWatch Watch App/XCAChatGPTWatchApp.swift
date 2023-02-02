@@ -21,4 +21,5 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                     .toolbar {
                         ToolbarItemGroup {
                             HStack {
-                          
+                                Button("Send") {
+                                    self.presentInputContro
