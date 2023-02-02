@@ -22,4 +22,5 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                         ToolbarItemGroup {
                             HStack {
                                 Button("Send") {
-                                    self.presentInputContro
+                                    self.presentInputController(withSuggestions: []) { result in
+                                        Task { @MainActor in
