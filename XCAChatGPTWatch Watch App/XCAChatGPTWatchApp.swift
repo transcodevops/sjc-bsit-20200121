@@ -24,3 +24,4 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                                 Button("Send") {
                                     self.presentInputController(withSuggestions: []) { result in
                                         Task { @MainActor in
+                                            guard !result.trimmingCharacters(in: .whitespac
