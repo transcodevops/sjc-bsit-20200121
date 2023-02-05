@@ -26,4 +26,5 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                                         Task { @MainActor in
                                             guard !result.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else { return }
                                             vm.inputMessage = result.trimmingCharacters(in: .whitespacesAndNewlines)
-     
+                                            await vm.sendTapped()
+                                 
