@@ -29,4 +29,6 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                                             await vm.sendTapped()
                                         }
                                     }
+                                }
                                 
+                                Button("Clear", role: .de
