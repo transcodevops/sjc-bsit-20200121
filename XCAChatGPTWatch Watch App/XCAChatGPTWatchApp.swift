@@ -31,4 +31,6 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                                     }
                                 }
                                 
-                                Button("Clear", role: .de
+                                Button("Clear", role: .destructive) {
+                                    vm.clearMessages()
+                      
