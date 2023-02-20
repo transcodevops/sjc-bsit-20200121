@@ -33,4 +33,6 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                                 
                                 Button("Clear", role: .destructive) {
                                     vm.clearMessages()
-                      
+                                }
+                                .tint(.red)
+                                .disabled(vm.isInter
