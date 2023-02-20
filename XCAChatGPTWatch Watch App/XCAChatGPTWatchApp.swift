@@ -37,4 +37,12 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
                                 .tint(.red)
                                 .disabled(vm.isInteractingWithChatGPT || vm.messages.isEmpty)
                             }
-                       
+                            .padding(.bottom)
+                        }
+                    }
+            }
+        }
+    }
+}
+
+ext
