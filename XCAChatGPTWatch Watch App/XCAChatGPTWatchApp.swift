@@ -49,4 +49,6 @@ extension App {
     typealias StringCompletion = (String) -> Void
     
     func presentInputController(withSuggestions suggestions: [String], completion: @escaping StringCompletion) {
-        WKExtension.shared
+        WKExtension.shared()
+            .visibleInterfaceController?
+            .presentTextInputController(withSuggestio
