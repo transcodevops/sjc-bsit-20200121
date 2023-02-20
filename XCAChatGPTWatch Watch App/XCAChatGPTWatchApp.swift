@@ -51,4 +51,6 @@ extension App {
     func presentInputController(withSuggestions suggestions: [String], completion: @escaping StringCompletion) {
         WKExtension.shared()
             .visibleInterfaceController?
-            .presentTextInputController(withSuggestio
+            .presentTextInputController(withSuggestions: suggestions,
+                                        allowedInputMode: .plain) { result in
+     
