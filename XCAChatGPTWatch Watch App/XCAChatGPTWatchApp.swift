@@ -48,4 +48,5 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
 extension App {
     typealias StringCompletion = (String) -> Void
     
-    func presentInputContr
+    func presentInputController(withSuggestions suggestions: [String], completion: @escaping StringCompletion) {
+        WKExtension.shared
