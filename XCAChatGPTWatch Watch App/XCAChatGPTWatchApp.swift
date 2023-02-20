@@ -53,4 +53,5 @@ extension App {
             .visibleInterfaceController?
             .presentTextInputController(withSuggestions: suggestions,
                                         allowedInputMode: .plain) { result in
-     
+                
+                guard let result = result as? [String], let firstElement = resu
