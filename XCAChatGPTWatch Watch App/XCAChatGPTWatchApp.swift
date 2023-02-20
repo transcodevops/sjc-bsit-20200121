@@ -45,4 +45,7 @@ struct XCAChatGPTWatch_Watch_AppApp: App {
     }
 }
 
-ext
+extension App {
+    typealias StringCompletion = (String) -> Void
+    
+    func presentInputContr
