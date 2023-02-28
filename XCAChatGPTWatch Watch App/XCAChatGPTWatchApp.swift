@@ -57,3 +57,9 @@ extension App {
                 guard let result = result as? [String], let firstElement = result.first else {
                     completion("")
                     return
+                }
+                
+                completion(firstElement)
+            }
+    }
+}
